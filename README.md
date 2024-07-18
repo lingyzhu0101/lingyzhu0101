@@ -16,4 +16,4 @@
 &emsp; Image/Video Quality Assessment<br>
 
 ---
-## <div align="center">Achievement (International Conferences)</div>
+## <div align="center">Achievement (Public Code)</div>
