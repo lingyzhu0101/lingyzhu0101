@@ -1,6 +1,6 @@
 ## <div align="center">Recent News</div>
-- [July 13, 2024] More compression work will come！
-- [Past to Future] Stay hungry, stay foolish! 
+- [July 13, 2024] More Compression Work Will Come！
+- [Past to Future] Stay Hungry, Stay Foolish! 
 
 
 ## <div align="center">Research Topic</div>
@@ -12,7 +12,7 @@
 </div>
 
 &emsp; Image/Video Compression &emsp;:&emsp; Human Vision, Machine Vision<br>
-&emsp; Image/Video Enhancement &emsp;:&emsp; Mainly, Low-light Enhancement<br>
+&emsp; Image/Video Enhancement &emsp;:&emsp; Low-light Enhancement, etc.<br>
 &emsp; Image/Video Quality Assessment<br>
 
 ---
