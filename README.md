@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[[Google Scholar](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)]&emsp;<br> 
+[[Google Scholar](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)]&emsp; [[ORCID](https://orcid.org/0000-0001-7608-7913)]&emsp;<br> 
 
 </div>
 
