@@ -1,6 +1,5 @@
-## <div align="Recent News">Research Topic</div>
+## <div align="center">Recent News</div>
 - [July 13, 2024] More compression work will come！
-- [Main Interests] Compression, Enhancement, and Quality Assessment!
 - [Past to Future] Stay hungry, stay foolish! 
 
 
@@ -12,9 +11,9 @@
 
 </div>
 
-&emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
-&emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
-&emsp; Image/Video Coding for Hmans and Machines<br>
+&emsp; Image/Video Compression &emsp;:&emsp; Human Vision, Machine Vision<br>
+&emsp; Image/Video Enhancement &emsp;:&emsp; Mainly, Low-light Enhancement<br>
+&emsp; Image/Video Quality Assessment<br>
 
 ---
 ## <div align="center">Achievement (International Conferences)</div>
