@@ -1,4 +1,4 @@
-## News
+## <div align="Recent News">Research Topic</div>
 - [July 13, 2024] More compression work will come！
 - [Main Interests] Compression, Enhancement, and Quality Assessment!
 - [Past to Future] Stay hungry, stay foolish! 
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)]&emsp;[[Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)]&emsp;[[ORCID](https://orcid.org/0009-0003-9202-4594)]&emsp;[[Linkedin](https://www.linkedin.com/in/takahiro-shindo-222277318/)]<br> 
+[[Google Scholar](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)]&emsp;<br> 
 
 </div>
 
