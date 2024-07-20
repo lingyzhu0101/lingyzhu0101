@@ -4,7 +4,7 @@
 - [Past to Future] Stay Hungry, Stay Foolish! 
 
 
-## <div align="center">Research Topic</div>
+## <div align="center">Research Topics</div>
 
 <div align="center">
   
@@ -19,6 +19,5 @@
 
 
 ## <div align="center">Achievement (Public Code)</div>
----
 
 
