@@ -1,10 +1,11 @@
 ## <div align="center">Recent News</div>
-- [July 18, 2024] Homepage Is Under Construction！
-- [July 13, 2024] More Compression Work Will Come！
-- [Past to Future] Stay Hungry, Stay Foolish! 
+- [August 01, 2024] Expect something exciting！
+- [July 18, 2024] Homepage is under construction！
+- [July 13, 2024] More compression work is on the way！
+- [Past to Future] Stay hungry, stay foolish! 
 
 
-## <div align="center">Research Topics</div>
+## <div align="center">Research topics</div>
 
 <div align="center">
   
@@ -12,9 +13,9 @@
 
 </div>
 
-&emsp; Image/Video Compression &emsp;:&emsp; Human Vision, Machine Vision<br>
-&emsp; Image/Video Enhancement &emsp;:&emsp; Low-light Enhancement, etc.<br>
-&emsp; Image/Video Quality Assessment<be>
+&emsp; Image/Video compression &emsp;:&emsp; Human vision, machine vision<br>
+&emsp; Image/Video enhancement &emsp;:&emsp; Low-light enhancement, diffusion, etc.<br>
+&emsp; Image/Video quality assessment<be>
 
 
 
