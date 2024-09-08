@@ -14,7 +14,7 @@
 </div>
 
 &emsp; Image/Video compression &emsp;:&emsp; Human vision, machine vision<br>
-&emsp; Image/Video enhancement &emsp;:&emsp; Low-light enhancement, Diffusion and GAN, etc.<br>
+&emsp; Image/Video enhancement &emsp;:&emsp; Low-light enhancement, diffusion and gan, etc.<br>
 &emsp; Image/Video quality assessment<be>
 
 
