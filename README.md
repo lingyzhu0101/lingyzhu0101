@@ -1,4 +1,4 @@
-## <div align="center">Recent News</div>
+## <div align="center"> :star: Recent News</div>
 - [August 01, 2024] Expect something exciting！
 - [July 18, 2024] Homepage is under construction！
 - [July 13, 2024] More compression work is on the way！
