@@ -1,4 +1,5 @@
 ## <div align="center"> Recent News</div>
+- [October 01, 2024] Short-term Visit to NTU！
 - [August 01, 2024] Expect something exciting！
 - [July 18, 2024] Homepage is under construction！
 - [July 13, 2024] More compression work is on the way！
