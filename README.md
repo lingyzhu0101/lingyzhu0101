@@ -15,9 +15,7 @@
 
 &emsp; Image/Video compression : &emsp; Human vision, machine vision<br>
 &emsp; Image/Video enhancement :&emsp; Low-light enhancement, diffusion and gan, etc.<br>
-&emsp; Image/Video quality assessment :&emsp; Large language model for weather conditions, low-light, rainy and hazy, etc. <br>
-&emsp; Note :&emsp;  Please feel free to send me an email if you would like to connect! &emsp;<be>
-
+&emsp; Image/Video quality assessment :&emsp; Large language model for weather conditions, low-light, rainy and hazy, etc. <be>
 
 
 
