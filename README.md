@@ -14,7 +14,7 @@
 </div>
 
 &emsp; Image/Video compression : &emsp; Human vision perception, machine vision analysis<br>
-&emsp; Image/Video enhancement :&emsp; Computational Photography, low-light enhancement, generative model, diffusion and gan, etc.<br>
+&emsp; Image/Video enhancement :&emsp; Computational photography, low-light enhancement, generative model, diffusion and gan, etc.<br>
 &emsp; Image/Video quality assessment :&emsp; Large multimodal model for weather conditions, low-light, rainy and hazy, etc. <be>
 
 
