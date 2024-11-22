@@ -22,7 +22,7 @@
 ## <div align="center">Achievement (Public Code)</div>
 
 
-<p align="left">
+<p align="center">
 <img src="src/framework.png" width=90% height=80% 
 class="center">
 </p>
