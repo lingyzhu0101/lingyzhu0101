@@ -1,4 +1,5 @@
 ## <div align="center"> Recent News</div>
+- [December 06, 2024]  Passed my thesis defense! Big thanks to all!
 - [October 01, 2024] Short-term visit to NTU！
 - [July 18, 2024] Homepage is under construction！
 - [July 13, 2024] More compression work is on the way！
