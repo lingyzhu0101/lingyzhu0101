@@ -7,7 +7,7 @@
 - [Past to Future] Stay hungry, stay foolish! 
 
 
-## <div align="center">Research topics</div>
+## <div align="center">Research Topics</div>
 
 <div align="center">
   
@@ -16,8 +16,8 @@
 </div>
 
 &emsp; Image/Video compression : &emsp; Human vision perception, machine vision analysis<br>
-&emsp; Image/Video enhancement :&emsp; Computational photography, low-light enhancement, generative model, diffusion and gan, etc.<br>
-&emsp; Image/Video quality assessment :&emsp; Large multimodal model for weather conditions, low-light, rainy and hazy, etc. <be>
+&emsp; Image/Video enhancement : &emsp; Computational photography, low-light enhancement, generative model, diffusion and gan, etc.<br>
+&emsp; Image/Video quality assessment : &emsp; Large multimodal model for weather conditions, low-light, rainy and hazy, etc. <be>
 
 
 
