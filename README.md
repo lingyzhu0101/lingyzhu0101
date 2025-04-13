@@ -17,6 +17,7 @@
 &emsp; Image/Video compression : &emsp; Human vision perception, machine vision analysis<br>
 &emsp; Image/Video enhancement : &emsp; Computational photography, low-light enhancement, generative model, diffusion and gan, etc.<br>
 &emsp; Image/Video quality assessment : &emsp; Large multimodal model for weather conditions, low-light, rainy and hazy, etc. <be>
+&emsp; Contact Me : &emsp; Feel free to reach out to me via WeChat (in my resume) or email to chat about anything—research, life, happiness, and more! <be>
 
 
 
