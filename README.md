@@ -4,7 +4,7 @@
 - [December 06, 2024]  Passed my thesis defense! Big thanks to all!
 - [October 01, 2024] Short-term visit to NTU！
 - [July 18, 2024] Homepage is under construction！
-- [Past to Future] Stay hungry, stay foolish! 
+- [Past to Future] I Support [[Slow Science](./src/slow_science_manifesto.pdf)]! 
 
 
 ## <div align="center"> 🔥 Research Topics </div>
