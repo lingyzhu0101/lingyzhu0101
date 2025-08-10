@@ -1,9 +1,9 @@
 ## <div align="center"> 🔥 Recent News </div>
-- Feel free to contact me via WeChat (in my resume) or email to chat about anything—research, life, happiness, and more!
+- Feel Free to Contact Me via WeChat (in my resume) or Email to Chat About Anything — Research, Life, Happiness, and more!
 - [January 09, 2025] Postdoctoral Fellow at City University of Hong Kong!
-- [December 06, 2024]  Passed my thesis defense! Big thanks to all!
-- [October 01, 2024] Short-term visit to NTU！
-- [July 18, 2024] Homepage is under construction！
+- [December 06, 2024]  Passed My Thesis Defense! Big Thanks to All!
+- [October 01, 2024] Short-term Visit to NTU！
+- [July 18, 2024] Homepage is Under Construction！
 - [Past to Future] I Support [Slow Science](./src/slow_science_manifesto.pdf)! 
 
 
