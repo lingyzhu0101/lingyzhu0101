@@ -1,5 +1,6 @@
 ## <div align="center"> 🔥 Recent News </div>
 - Feel Free to Contact Me via WeChat (in my resume) or Email to Chat About Anything — Research, Life, Happiness, and More!
+- [January 01, 2026] May This Year be Filled with Joy and Success!
 - [January 09, 2025] Postdoctoral Fellow at City University of Hong Kong!
 - [December 06, 2024]  Passed My Thesis Defense! Big Thanks to All!
 - [October 01, 2024] Short-term Visit to NTU！
